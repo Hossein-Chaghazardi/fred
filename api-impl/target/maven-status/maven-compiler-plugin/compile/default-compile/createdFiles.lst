@@ -1,5 +1,0 @@
-utils/MongoObjectConvertor.class
-gdp/GdpDatabase.class
-db/mongo/MongoConnector.class
-gdp/FredCaller.class
-gdp/GdpFredEntry.class
